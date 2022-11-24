@@ -113,7 +113,7 @@ Replace the relevant bits in this example with your own:
 CREATE TABLE cohorts (
   id SERIAL PRIMARY KEY,
   name text,
-  starting_date, date
+  starting_date date
 
 );
 
